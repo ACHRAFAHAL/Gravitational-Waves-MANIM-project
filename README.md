@@ -1,6 +1,6 @@
 # Gravitational Waves (A Manim Project)
 
-This project aims to simplify the complex phenomenon of **gravitational waves (GW)**. The final result is a **4-minute animation** explaining the groundbreaking work of the **LIGO** and **Virgo** collaborations that detected gravitational waves, along with the physics behind them. The video was created using **Manim**, a powerful library for mathematical animations.
+This project aims to simplify the complex phenomenon of **gravitational waves (GW)**. The final result is a [**4-minute animation**](https://achrafahal.github.io/Gravitational-Waves-MANIM-project/) explaining the groundbreaking work of the **LIGO** and **Virgo** collaborations that detected gravitational waves, along with the physics behind them. The video was created using **Manim**, a library for mathematical animations.
 
 ### Special Thanks
 A special shoutout to **Grant Sanderson**, the creator of the **Manim** library. His YouTube channel, [**3Blue1Brown**](https://www.youtube.com/@3blue1brown), is an invaluable resource for anyone passionate about mathematics and animation. Make sure to check it out!
